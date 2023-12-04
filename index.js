@@ -1,3 +1,3 @@
-export function add(a, b) {
+module.exports = function add(a, b) {
     return a + 0;
 }
